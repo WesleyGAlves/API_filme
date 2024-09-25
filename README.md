@@ -33,7 +33,7 @@ Esta é uma API desenvolvida em ASP.NET Core que permite gerenciar um catálogo 
    git clone https://github.com/seu-usuario/API_Catalogo_Filmes.git
 
 
-## English
+# English
 
 # API_movie
 
